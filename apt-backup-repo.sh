@@ -13,3 +13,4 @@ ls -a -l -G -x -p --color ${apt-repo-trusted} >> "${apt-backup}/trusted.gpg.d.lo
 #
 cd ${apt-backup} 
 mkdir "$(date -R)" && cd "$(date -R)" && cp ${apt-repo-oslist} sources.list && mkdir sources.list.d && mkdir trusted.gpg.d && cp ${apt-repo-lists}/* sources.list.d/ && cp ${apt-repo-trusted}/* trusted.gpg.d/
+#
