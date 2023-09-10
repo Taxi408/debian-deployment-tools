@@ -18,12 +18,12 @@ mkdir /rts/security
 #
 #echo "CURRENT USER: "$USER >> 
 #
-wget ${urldlres}/setup-docker.sh
-wget ${urldlres}/setup-traccar.sh
-wget ${urldlres}/setup-plesk.sh
+wget ${urldlres}/software/management/setup-docker.sh
+wget ${urldlres}/software/management/setup-traccar.sh
+wget ${urldlres}/software/management/setup-plesk.sh
 wget ${urldlres}/setup-basics.sh
-wget ${urldlres}/setup-git.sh
-wget ${urldlres}/updater.sh
+wget ${urldlres}/software/management/setup-git.sh
+wget ${urldlres}/os-tools/updater.sh
 wget ${urldlres}/set-file-attributes.sh
 #
 chmod +x set-file-attributes.sh 1>> $logfiledir/setup-basics.out.sh
