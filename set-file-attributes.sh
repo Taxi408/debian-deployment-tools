@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-cd /
+cd /rts/script
 #
 chmod +x 'software/management/setup-plesk.sh'
 chmod +x 'software/management/setup-traccar.sh'
