@@ -1,14 +1,20 @@
 #!/bin/bash
 #
 cd /rts/script
-#
-chmod +x 'software/management/setup-plesk.sh'
-chmod +x 'software/management/setup-traccar.sh'
-chmod +x 'software/management/setup-docker.sh'
 chmod +x 'setup-basics.sh'
-chmod +x 'os-tools/updater.sh'
-chmod +x 'software/management/setup-git.sh'
-chmod +x 'os-tools/apt-backup-repo.sh'
-chmod +x 'software/management/setup-mysqlserver.sh'
-chmod +x 'connections/external/dns-update-dynv6.sh'
+chmod +x 'set-file-attributes.sh'
+#
+cd /rts/script/software/management
+chmod +x 'setup-plesk.sh'
+chmod +x 'setup-traccar.sh'
+chmod +x 'setup-docker.sh'
+chmod +x 'setup-git.sh'
+chmod +x 'setup-mysqlserver.sh'
+#
+cd /rts/script/os-tools
+chmod +x 'updater.sh'
+chmod +x 'apt-backup-repo.sh'
+#
+cd /rts/script/connections/external
+chmod +x 'dns-update-dynv6.sh'
 #
