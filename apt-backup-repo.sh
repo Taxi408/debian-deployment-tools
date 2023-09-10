@@ -3,7 +3,7 @@
 cd /
 apt-dir=/etc/apt
 #apt-backup=/rts/backup/system/apt
-apt-backup=/tests/dirtest
+apt-backup=/test/dirtest
 apt-repo-oslist=${apt-dir}/sources.list
 apt-repo-lists=${apt-dir}/sources.list.d
 apt-repo-trusted=${apt-dir}/trusted.gpg.d
