@@ -6,8 +6,8 @@
 
 | Description | Status | File |
 | :---------- | :----- | :--- |
-| OS-Updater | OK | [Script updater.sh](./updater.sh) |
-| APT: Backup Repo List | Working... | [Script apt-backup-repo.sh](./apt-backup-repo.sh) |
+| OS-Updater | OK | [Script updater.sh](./os-tools/updater.sh) |
+| APT: Backup Repo List | Working... | [Script apt-backup-repo.sh](./os-tools/apt-backup-repo.sh) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
