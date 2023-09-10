@@ -34,7 +34,7 @@
 | Description | Status | File |
 | :---------- | :----- | :--- |
 | Setup Files Manager | OK *TEMP* | [Script set-file-attributes.sh](./set-file-attributes.sh) |
-| Setup: Docker | Working... | [Script setup-docker.sh](./setup-docker.sh) |
+| Setup: Docker | *TEST READY* | [Script setup-docker.sh](./setup-docker.sh) |
 | Setup: Plesk | Working... | [Script setup-plesk.sh](./setup-plesk.sh) |
 | Setup: Basics | Working... | [Script setup-basics.sh](./setup-basics.sh) |
 | Setup: Git | *TEST READY* | [Script setup-git.sh](./setup-git.sh) |
