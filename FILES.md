@@ -39,7 +39,7 @@
 | Setup: Basics | Working... | [Script setup-basics.sh](./setup-basics.sh) |
 | Setup: Git | *TEST READY* | [Script setup-git.sh](./setup-git.sh) |
 | Setup: Traccar | *TEST READY* | [Script setup-traccar.sh](./setup-traccar.sh) |
-|  |  |  |
+| Setup: MySQL Server | Working... | [Script setup-mysqlserver.sh](./setup-mysqlserver.sh) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
