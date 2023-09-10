@@ -36,7 +36,6 @@ echo "Terminal-Emulation: "$TERM >> "/rts/sysinfo/server-basic.md"
 echo "Current Shell-Type: "$SHELL >> "/rts/sysinfo/server-basic.md"
 echo "Command-Paths-List: "$PATH >> "/rts/sysinfo/server-basic.md"
 echo "Current set Editor: "$EDITOR >> "/rts/sysinfo/server-basic.md"
-
 #
 bash /rts/script/updater.sh 1>> $logfiledir/setup-basics.updater.run0001.out.log 2>> $logfiledir/setup-basics.updater.run0001.err.log #9>> $logfiledir/setup-basics.updater.run0001.all.log
 #
