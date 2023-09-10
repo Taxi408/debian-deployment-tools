@@ -7,7 +7,7 @@
 | Description | Status | File |
 | :---------- | :----- | :--- |
 | OS-Updater | OK | updater.sh |
-| APT: Backup Repo List | In Progress | apt-backup-repo.sh |
+| APT: Backup Repo List | Working... | apt-backup-repo.sh |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -33,12 +33,12 @@
 
 | Description | Status | File |
 | :---------- | :----- | :--- |
-| Setup Files Manager | OK TEMP | set-file-attributes.sh |
-| Setup: Docker | In Progress | setup-docker.sh |
-| Setup: Plesk | In Progress | setup-plesk.sh |
-| Setup: Basics | In Progress | setup-basics.sh |
-| Setup: Git | USABLE | setup-git.sh |
-| Setup: Traccar | USABLE | setup-traccar.sh |
+| Setup Files Manager | OK *TEMP* | set-file-attributes.sh |
+| Setup: Docker | Working... | setup-docker.sh |
+| Setup: Plesk | Working... | setup-plesk.sh |
+| Setup: Basics | Working... | setup-basics.sh |
+| Setup: Git | *TEST READY* | setup-git.sh |
+| Setup: Traccar | *TEST READY* | [[setup-traccar.sh][File] |
 |  |  |  |
 |  |  |  |
 |  |  |  |
