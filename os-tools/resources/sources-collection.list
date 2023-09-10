@@ -1,0 +1,81 @@
+# Official Software Repositories (DE) >
+deb http://ftp.de.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://ftp.de.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+
+# Official Security Repositories (DE) >
+deb http://ftp.de.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+deb-src http://ftp.de.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+
+# Official Update Repositories (DE) >
+deb http://ftp.de.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+deb-src http://ftp.de.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+
+# Official Backport Repositories (DE) >
+deb http://ftp.de.debian.org/debian/ bullseye-backports main contrib non-free
+deb-src http://ftp.de.debian.org/debian/ bullseye-backports main contrib non-free
+
+# Official Backport Repositories (GLOBAL) >
+# deb http://ftp.debian.org/debian/ bullseye-backports main contrib non-free
+# deb-src http://ftp.debian.org/debian/ bullseye-backports main contrib non-free
+
+# Official Unstable Repositories (GLOBAL) >
+# deb http://deb.debian.org/debian/ unstable main
+# deb-src http://deb.debian.org/debian/ unstable main
+
+# Official Software/Update/Security/Backport Repositories (GLOBAL SPREAD) >
+# deb http://ftp.at.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb-src http://ftp.at.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb http://ftp.ch.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb-src http://ftp.ch.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb http://ftp.cz.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb-src http://ftp.cz.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+# deb http://ftp.at.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb-src http://ftp.at.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb http://ftp.ch.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb-src http://ftp.ch.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb http://ftp.cz.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb-src http://ftp.cz.debian.org/debian/ bullseye-updates main contrib non-free non-free-firmware
+# deb http://ftp.at.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+# deb-src http://ftp.at.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+# deb http://ftp.ch.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+# deb-src http://ftp.ch.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+# deb http://ftp.cz.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+# deb-src http://ftp.cz.debian.org/debian-security/ bullseye-security main contrib non-free non-free-firmware
+
+
+# Official Debug Symbol Package Repositories (GLOBAL) >
+deb http://deb.debian.org/debian-debug/ bullseye-debug main
+deb http://deb.debian.org/debian-debug/ testing-debug main
+deb http://deb.debian.org/debian-debug/ unstable-debug main
+
+# Third-Party Repositories (DE) >
+deb http://debian.charite.de/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://debian.charite.de/debian/ bullseye main contrib non-free non-free-firmware
+deb http://debian.inf.tu-dresden.de/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://debian.inf.tu-dresden.de/debian/ bullseye main contrib non-free non-free-firmware
+deb http://debian.tu-bs.de/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://debian.tu-bs.de/debian/ bullseye main contrib non-free non-free-firmware
+deb http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/ bullseye main contrib non-free non-free-firmware
+deb http://ftp.tu-chemnitz.de/debian/ bullseye main contrib non-free non-free-firmware
+deb-src http://ftp.tu-chemnitz.de/debian/ bullseye main contrib non-free non-free-firmware
+
+# Third-Party Repositories (GLOBAL SPREAD) >
+# deb . bullseye main contrib non-free non-free-firmware
+# deb-src . bullseye main contrib non-free non-free-firmware
+
+# Third-Party Repositories (GLOBAL SPREAD) >
+# > MongoDB
+deb http://downloads-distro.mongodb.org/repo/debian-sysvinit dist 10gen
+# > Oracle OSS Database System
+deb http://oss.oracle.com/debian unstable main non-free
+# > Google Chrome Browser
+deb http://dl.google.com/linux/chrome/deb/ stable main
+# > Google Earth
+deb http://dl.google.com/linux/earth/deb/ stable main
+# > Non-free mod_pagespeed module for Apache
+deb http://dl.google.com/linux/mod-pagespeed/deb/ stable main
+# > Microsoft Visual Studio Code
+# deb https://packages.microsoft.com/repos/code stable main
+
+
