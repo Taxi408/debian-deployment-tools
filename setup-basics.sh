@@ -19,6 +19,7 @@ wget ${urldlres}/setup-docker.sh
 wget ${urldlres}/setup-traccar.sh
 wget ${urldlres}/setup-plesk.sh
 wget ${urldlres}/setup-basics.sh
+wget ${urldlres}/setup-git.sh
 wget ${urldlres}/updater.sh
 wget ${urldlres}/set-file-attributes.sh
 #
@@ -44,7 +45,7 @@ apt-get -y install curl 1>> $logfiledir/setup-curl.out.log 2>> $logfiledir/setup
 #apt-get -y install apt-transport-https
 #apt-get -y install vsftpd
 #apt-get -y install colorized-logs
-apt-get -y install git
+#apt-get -y install 
 #apt-get -y install 
 #apt-get -y install 
 #apt-get -y install 
