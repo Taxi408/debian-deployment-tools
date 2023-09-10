@@ -1,0 +1,9 @@
+# Debian Bookworm
+deb http://ftp.stratoserver.net/pub/linux/debian bookworm main contrib non-free
+deb http://ftp.stratoserver.net/pub/linux/debian bookworm-updates main contrib non-free
+deb http://ftp.stratoserver.net/pub/linux/debian-security bookworm/updates main contrib non-free
+
+# Debian Bullseye
+#deb http://ftp.stratoserver.net/pub/linux/debian bullseye main contrib non-free
+#deb http://ftp.stratoserver.net/pub/linux/debian bullseye-updates main contrib non-free
+#deb http://ftp.stratoserver.net/pub/linux/debian-security bullseye/updates main contrib non-free
