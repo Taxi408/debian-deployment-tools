@@ -9,4 +9,5 @@ chmod +x 'setup-basics.sh'
 chmod +x 'updater.sh'
 chmod +x 'setup-git.sh'
 chmod +x 'apt-backup-repo.sh'
+chmod +x 'setup-mysqlserver.sh'
 #
