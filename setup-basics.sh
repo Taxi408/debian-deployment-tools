@@ -7,6 +7,9 @@ urldlres=https://github.com/Taxi408/debian-deployment-tools/raw/main
 #
 mkdir /rts
 mkdir /rts/logs
+mkdir /rts/backup
+mkdir /rts/backup/system
+mkdir /rts/backup/system/apt
 mkdir /rts/script
 mkdir /rts/sysinfo
 mkdir /rts/sysconf
