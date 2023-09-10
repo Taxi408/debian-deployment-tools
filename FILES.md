@@ -38,7 +38,7 @@
 | Setup: Plesk | Working... | setup-plesk.sh |
 | Setup: Basics | Working... | setup-basics.sh |
 | Setup: Git | *TEST READY* | setup-git.sh |
-| Setup: Traccar | *TEST READY* | [[setup-traccar.sh][File]] |
+| Setup: Traccar | *TEST READY* | [[./setup-traccar.sh][File]] |
 |  |  |  |
 |  |  |  |
 |  |  |  |
