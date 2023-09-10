@@ -6,8 +6,8 @@
 
 | Description | Status | File |
 | :---------- | :----- | :--- |
-| OS-Updater | OK | updater.sh |
-| APT: Backup Repo List | Working... | apt-backup-repo.sh |
+| OS-Updater | OK | [Script updater.sh](./updater.sh) |
+| APT: Backup Repo List | Working... | [Script apt-backup-repo.sh](./apt-backup-repo.sh) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -33,12 +33,12 @@
 
 | Description | Status | File |
 | :---------- | :----- | :--- |
-| Setup Files Manager | OK *TEMP* | set-file-attributes.sh |
-| Setup: Docker | Working... | setup-docker.sh |
-| Setup: Plesk | Working... | setup-plesk.sh |
-| Setup: Basics | Working... | setup-basics.sh |
-| Setup: Git | *TEST READY* | setup-git.sh |
-| Setup: Traccar | *TEST READY* | [[./setup-traccar.sh][File]] |
+| Setup Files Manager | OK *TEMP* | [Script set-file-attributes.sh](./set-file-attributes.sh) |
+| Setup: Docker | Working... | [Script setup-docker.sh](./setup-docker.sh) |
+| Setup: Plesk | Working... | [Script setup-plesk.sh](./setup-plesk.sh) |
+| Setup: Basics | Working... | [Script setup-basics.sh](./setup-basics.sh) |
+| Setup: Git | *TEST READY* | [Script setup-git.sh](./setup-git.sh) |
+| Setup: Traccar | *TEST READY* | [Script setup-traccar.sh](./setup-traccar.sh) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
