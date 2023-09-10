@@ -1,5 +1,7 @@
 # TABLE OF CONTENTS
 
+## SOFTWARE MANAGEMENT
+
 | Description | Status | File |
 | :---------- | :----- | :--- |
 | OS-Updater | OK | updater.sh |
