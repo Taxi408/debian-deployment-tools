@@ -1,4 +1,4 @@
-TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 | Description | Status | File |
 | :---------- | :----- | :--- |
@@ -9,6 +9,56 @@ TABLE OF CONTENTS
 | Setup: Basics | In Progress | setup-basics.sh |
 | Setup: Git | USABLE | setup-git.sh |
 | Setup: Traccar | USABLE | setup-traccar.sh |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
