@@ -117,3 +117,9 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+## CONNECTIONS MANAGEMENT
+
+| Description | Status | File |
+| :---------- | :----- | :--- |
+| DynDNS Update DynV6 | OK | [Script dns-update-dynv6.sh](./connections/external/dns-update-dynv6.sh) |
