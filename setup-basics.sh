@@ -3,7 +3,7 @@
 cd /
 #
 logfiledir=/rts/logs
-urldlres=http://h3001362.stratoserver.net/resources
+urldlres=https://github.com/Taxi408/debian-deployment-tools/raw/main
 #
 mkdir /rts
 mkdir /rts/logs
